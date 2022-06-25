@@ -1,7 +1,7 @@
 ---
 theme: zhozhoba
 layout: cover
-company: COMPANY NAME
+company: EchoYzd
 download: false
 date: 2022.06.25
 ---

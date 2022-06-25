@@ -3,9 +3,9 @@
   "private": true,
   "scripts": {
     "dev": "slidev --open",
-    "dev2": "slidev ep1.md -- --open",
+    "dev2": "slidev web-components.md -- --open",
     "build": "slidev build",
-    "build2": "slidev build ep1.md --out=./dist --base=/",
+    "build2": "slidev build web-components.md --out=./dist --base=/",
     "build3": "slidev build ep1.md --out=./dist2 --base=/dir2",
     "export": "slidev export"
   },
