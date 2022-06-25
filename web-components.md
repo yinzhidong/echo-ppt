@@ -7,8 +7,6 @@ date: 2022.06.25
 
 ---
 # Web Components 分享
-##### Insert the sub title of your presentation
-### Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua
 
 
 <style>
@@ -174,6 +172,14 @@ layout: content-2
 * [spectrum-web-components](https://opensource.adobe.com/spectrum-web-components/components)
 * [ui5-webcomponents](https://sap.github.io/ui5-webcomponents/playground/components)
 * [css-doodle](https://css-doodle.com/#usage)
+
+
+---
+layout: content-1
+---
+# 下期预告
+
+使用web-components开发chrome插件
 
 ---
 layout: end
